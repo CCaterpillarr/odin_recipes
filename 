@@ -1,0 +1,41 @@
+[33mcommit 2b107a5d201903ae16e004ce1bb1725b7834a452[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: CCartepillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Thu Mar 9 11:07:31 2023 +0100
+
+    Moved recipe content to its proper page
+
+[33mcommit e0fcd973efb5619fc0d6b895304516854eb5f591[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: CCartepillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Thu Mar 9 10:40:49 2023 +0100
+
+    Add recipe description, ingredients and steps
+
+[33mcommit 448f178b3402ff3159b8836037e2b597537de2b3[m
+Author: CCartepillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Thu Mar 9 10:33:33 2023 +0100
+
+    Create images directory & add images
+
+[33mcommit a70daf89d3d2f5739c736465f4bb8b86996e11f3[m
+Author: CCartepillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Thu Mar 9 10:29:03 2023 +0100
+
+    Add recipes folder, first recipe and link to it
+
+[33mcommit 6326b999b126c72a8cbd316e70fef9f8c58c3dd8[m
+Author: CCartepillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Thu Mar 9 10:14:24 2023 +0100
+
+    enter README.md description
+
+[33mcommit aa8c40dd2b9b3d89890decfb0de317960ab8f79b[m
+Author: CCartepillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Wed Mar 8 14:57:57 2023 +0100
+
+    create index.htmnl and basic structure
+
+[33mcommit eb3a31b1b0a1a01f2685ade5d2065bd8c9d6ed60[m
+Author: CCaterpillarr <127199181+CCaterpillarr@users.noreply.github.com>
+Date:   Wed Mar 8 14:55:10 2023 +0100
+
+    Initial commit
