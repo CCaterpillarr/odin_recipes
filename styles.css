@@ -7,9 +7,15 @@ body {
     font-family:'Times New Roman', Times, serif;
     text-align: center;
     color:antiquewhite;
+    font-size: 40px;
 }
 
 .list.mainlist {
     background-color:rgb(202, 186, 171);
     color:brown;
+}
+
+.list {
+    background-color: black;
+    color:aliceblue;
 }
